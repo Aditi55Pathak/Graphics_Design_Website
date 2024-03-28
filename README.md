@@ -24,6 +24,10 @@ Responsive Design: The website was optimized for mobile devices, ensuring a cons
 
 User-Friendly Interface: The website was designed to be intuitive and easy to navigate, enhancing the overall user experience.
 
+## First Page UI Design
+
+<img width="565" alt="image" src="https://github.com/Aditi55Pathak/Graphics_Design_Website/assets/80877301/96f30d15-367c-4bb4-a899-a5c04cf7bf44">
+
 
 
 
